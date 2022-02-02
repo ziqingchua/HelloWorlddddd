@@ -1,4 +1,1 @@
-print("Hello World my name is Zi Qing)
-
-
-
+print("Hello World my name is Zi Qing.")
